@@ -1,0 +1,45 @@
+body{
+    background: rgb(46, 45, 45);
+    background-attachment: fixed;
+    
+}
+
+#watch{
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    margin: auto;
+}
+#watch h1{
+    font-size: xx-large;
+    font-weight: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+#buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#buttons img{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+    
+}
+#time{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#heading
+{
+    background-color: aqua;
+    border-radius: 10px;
+    border: black 4px solid;
+    
+
+}
